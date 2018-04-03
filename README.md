@@ -50,5 +50,5 @@ can be spotted at compile time, delcaring a const variable withot the modifier c
 
 	2. Functions that access external state and may modify it
 
-	3. Functions who perform I/O (this includes working with shared memory, network memory and pipes)
+	3. Functions that perform I/O (this includes working with shared memory, network memory and pipes)
 
