@@ -52,3 +52,6 @@ can be spotted at compile time, delcaring a const variable withot the modifier c
 
 	3. Functions that perform I/O (this includes working with shared memory, network memory and pipes)
 
+### Code formatting
+
+* Formatting rules should be encapsulated by a simple config file and formatting tool, otherwise, they are too hard to enforce. For existing formatting rules please see the `formatting` directory.
