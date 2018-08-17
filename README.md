@@ -38,7 +38,7 @@ Humans are very good at reading and writing code, coincidentally they also seem 
 * A constant variable is one that can't be reasigend to. By default, all variables should be const, declaring a normal variable as a const
 can be spotted at compile time, delcaring a const variable withot the modifier can lead to horrible bugs.
 
-* An immutable value is one that cannot change. In certain languages this is the same as constant-ness (e.g. Rust and C++), in others (e.g. Python and Javascritp) there are different mechanisms for making a value immutable (e.g. Object.freeze()). Immutable values are good for the same reason constant variables are, further more, they can help the compiler otpimize code and they can be used in parallel code without a lock. As such, use immutable values whenever you can.
+* An immutable value is one that cannot change. In certain languages this is the same as constant-ness (e.g. Rust and C++), in others (e.g. Python and Javascript) there are different mechanisms for making a value immutable (e.g. Object.freeze()). Immutable values are good for the same reason constant variables are, further more, they can help the compiler otpimize code and they can be used in parallel code without a lock. As such, use immutable values whenever you can.
 
 
 ### 2.2 Diferentiate between pure and inpure functions
