@@ -61,5 +61,5 @@ can be spotted at compile time, delcaring a const variable withot the modifier c
 * Formatting rules should be encapsulated by a simple config file and formatting tool, otherwise, they are too hard to enforce. For existing formatting rules please see the `formatting` directory.
 
 
-**Stuff to add in later
+**Stuff to add in later**
 http://www.catb.org/~esr/writings/unix-koans/recruiter.html
