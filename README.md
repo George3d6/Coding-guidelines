@@ -31,6 +31,10 @@ Humans are very good at reading and writing code, coincidentally they also seem 
 
 
 
+
+**Stuff to add in later:
+http://www.catb.org/~esr/writings/unix-koans/recruiter.html
+
 ## 2. How do I write code
 
 ### 2.1 Use immutability and constant variables
